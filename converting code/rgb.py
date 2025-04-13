@@ -18,4 +18,4 @@ def bmp_to_rgb565(new_bmp, output_file):
     print(f"Conversion complete: {output_file}")
 
 # Example usage
-bmp_to_rgb565('CAR.bmp', 'CAR.rgb565')
+bmp_to_rgb565('image.bmp', 'image.rgb565')
